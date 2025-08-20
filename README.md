@@ -10,7 +10,7 @@
 1. Clone the repository:
    ```sh
    git clone https://github.com/alfar-programer/HealthHub
-   cd HealthHub-main
+   cd HealthHub
    ```
 
 2. Install dependencies:
