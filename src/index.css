@@ -9,7 +9,7 @@ html,
 body {
   width: 100dvw;
   overflow-x: hidden;
-  background:linear-gradient(to right ,#62e0ff 30%,  #439843) ;
+  background:linear-gradient(to right ,#206d81 50%,  #439843) ;
   color: white;
   font-family: "Mona Sans", sans-serif;
   scroll-behavior: smooth;
@@ -433,6 +433,7 @@ section {
 }
 
 .card::before {
+  content: "";
   position: absolute;
   content: "";
   width: 100%;
